@@ -12,3 +12,7 @@
 # str1="Python , Training" #--> ['I', 'attend'..]
 # res=str1.split("  ")
 # print(res)
+
+a=10
+b=90
+print(a+b)
