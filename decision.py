@@ -40,7 +40,8 @@ while grade!=-1:
 
 
 avg=total/count
-print("Avg of subjects is" , avg)    
+print("Avg of subjects is" , avg)   
+print("ANother change")
 
 
 
