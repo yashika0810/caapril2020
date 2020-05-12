@@ -9,6 +9,9 @@ while True:
     
     except NameError:
         print("Please provide correct value")
+        
+    except IOError:
+        print("Error!!! Can't open the file")
     
     else:
         print("The average is ",avg)
