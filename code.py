@@ -14,5 +14,5 @@
 # print(res)
 
 a=10
-b=90
+b=500
 print(a+b)
