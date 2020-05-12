@@ -15,4 +15,7 @@
 
 a=10
 b=100
-print(a+b)
+c=20
+print("The addition is", a+b+c)
+
+
